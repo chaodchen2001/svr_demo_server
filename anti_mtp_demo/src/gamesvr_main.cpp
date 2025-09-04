@@ -8,9 +8,9 @@
 #include "antimtp_util.h"
 
 // 测试用，游戏侧需替换为自己的game_id、secret_id、secret_key
-unsigned int g_gameid_ = 20059;
+unsigned int g_gameid_ = 20277;
 char g_secret_id_[] = "3805C9C21D515E26";
-char g_secret_key_[] = "09627ad140016536e626204bfd50b5ad";
+char g_secret_key_[] = "c23722cbf4656c8a354b8d01788c8eff";
 
 void test1_send_anti_data(const AceSdkMtpAntiInterf* anti_interf);
 void test2_send_many_data_trigger_bandwidth_limit(const AceSdkMtpAntiInterf* anti_interf);
