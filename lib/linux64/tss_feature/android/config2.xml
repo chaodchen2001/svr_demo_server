@@ -1,0 +1,16 @@
+<?xml version="1" encoding="utf-8"?>
+<config>
+	<DEFAULT ct="00000000000000000000000000000000" probability="100" flag="1">
+		<file type=3 local="files/tss_ano.dat" name="tss_ano.dat" hash_type=1 probability="100" scale="1">
+			<A hash="8D35CB94"/>
+			<B hash="E74E684E"/>
+		</file>
+		<file type=3 local="files/cpfc.zip" name="cpfc.zip" hash_type=1 probability="100" scale="1">
+			<A hash="5DC1D8B9"/>
+		</file>
+		<file type=3 local="files/tp2cfg.dat" name="tp2cfg.dat" hash_type=1 probability="100" scale="1">
+			<A hash="8CE149F7"/>
+			<B hash="E4DF84B0"/>
+		</file>
+	</DEFAULT>
+</config>

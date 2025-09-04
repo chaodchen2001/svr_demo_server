@@ -1,0 +1,13 @@
+<?xml version="1" encoding="utf-8"?>
+<config>
+	<DEFAULT>
+		<file type=3 local="files/tss_ano.dat" name="tss_ano.dat" hash_type=1 probability="100" scale="1">
+			<A hash="1DEB3B7F"/>
+			<B hash="9831C097"/>
+		</file>
+		<file type=3 local="files/tp2cfg.dat" name="tp2cfg.dat" hash_type=1 probability="100" scale="1">
+			<A hash="38943AA1"/>
+			<B hash="38C7D31D"/>
+		</file>
+	</DEFAULT>
+</config>
